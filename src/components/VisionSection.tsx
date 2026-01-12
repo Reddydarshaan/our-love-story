@@ -10,7 +10,7 @@ const visionItems = [
   {
     icon: <Coffee size={24} />,
     title: 'Simple Moments',
-    description: 'Coffee runs, grocery shopping, the beautiful mundane of life together',
+    description: 'Tea dates, cooking maggie together, the beautiful mundane of life together',
   },
   {
     icon: <Users size={24} />,
@@ -25,7 +25,7 @@ const visionItems = [
   {
     icon: <Sparkles size={24} />,
     title: 'Celebrating Wins',
-    description: 'Being there in person for every promotion, every milestone, every joy',
+    description: 'Being there in person for every event, every milestone, every joy',
   },
   {
     icon: <Heart size={24} />,
