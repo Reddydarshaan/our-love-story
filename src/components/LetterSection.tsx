@@ -36,6 +36,7 @@ const LetterSection = () => {
         >
           <div className="font-script text-xl md:text-2xl text-wine/90 leading-relaxed space-y-6">
             <p>My love,</p>
+<<<<<<< HEAD
 
 <p>
   We met when we were just kids in school, back in 7th class — two people who had
@@ -76,6 +77,37 @@ const LetterSection = () => {
 <p className="text-right pt-4">
   Forever yours Dachu❤️
 </p>
+=======
+            
+            <p>
+              Before you, I didn't know what it meant to have someone believe in me 
+              so completely. You saw the best in me when I couldn't see it myself. 
+              You loved me through my flaws and helped me become someone I'm proud to be.
+            </p>
+
+            <p>
+              You're my first thought in the morning and my last wish at night. 
+              Your laughter is my favorite sound. Your happiness is my purpose. 
+              With you, I've learned that love isn't just a feeling—it's a choice 
+              we make every single day. And I choose you. Always.
+            </p>
+
+            <p>
+              You've taught me patience, kindness, and what it truly means to care 
+              for someone. Every challenge we've faced together has only made our 
+              bond stronger. You are my partner, my best friend, my everything.
+            </p>
+
+            <p>
+              Three years ago, I found you. But every day since, I keep falling 
+              deeper. I didn't know love could grow like this—infinitely, endlessly, 
+              more beautiful with each passing moment.
+            </p>
+
+            <p className="text-right pt-4">
+              Forever yours ❤️
+            </p>
+>>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
           </div>
         </motion.div>
       </div>

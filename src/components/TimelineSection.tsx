@@ -15,10 +15,17 @@ const timelineData: TimelineYear[] = [
     year: 1,
     title: 'The Beginning',
     description:
+<<<<<<< HEAD
       'The year when everything changed. When I proposed u in train, I knew my world would never be the same. Every moment with you felt like discovering a new color I never knew existed.',
     memories: [
       'The nervous excitement of our first date',
       'Our Tea-dates to malls and beaches',
+=======
+      'The year when everything changed. When I first saw your smile, I knew my world would never be the same. Every moment with you felt like discovering a new color I never knew existed.',
+    memories: [
+      'Our first conversation that lasted until sunrise',
+      'The nervous excitement of our first date',
+>>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
       "Learning each other's little quirks and falling deeper",
     ],
   },
@@ -28,7 +35,11 @@ const timelineData: TimelineYear[] = [
     description:
       'We learned what it means to be a team. Through challenges and celebrations, we held each other close. You became not just my love, but my best friend, my confidant, my home.',
     memories: [
+<<<<<<< HEAD
       'Our First Trip Together',
+=======
+      'Building traditions that became ours',
+>>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
       'Supporting each other through difficult times',
       'Celebrating victories, big and small',
     ],
@@ -39,6 +50,7 @@ const timelineData: TimelineYear[] = [
     description:
       "Three years of loving you, and every day I discover new reasons why you're the one. The way you laugh, the way you care, the way you make ordinary moments extraordinary.",
     memories: [
+<<<<<<< HEAD
       'We didn’t just love each other—we lived it',
       'Countless dates, evening beaches,endless cups of tea, quiet dinners, and loud laughter.',
       'Ordinary days became our favorite memories, simply because we were together',
@@ -50,6 +62,14 @@ const timelineImages: Record<number, string> = {
   2: "/images/year2.jpeg",
   3: "/images/year3.jpeg",
 };
+=======
+      'Realizing this love is forever',
+      'Dreaming together about our future',
+      "Knowing I can't imagine life without you",
+    ],
+  },
+];
+>>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
 
 const TimelineCard = ({ data, index }: { data: TimelineYear; index: number }) => {
   const ref = useRef(null);
@@ -82,6 +102,7 @@ const TimelineCard = ({ data, index }: { data: TimelineYear; index: number }) =>
           {data.description}
         </p>
 
+<<<<<<< HEAD
         {/* Year Image */}
 <motion.div
   className="rounded-xl overflow-hidden mb-6 shadow-lg"
@@ -96,6 +117,15 @@ const TimelineCard = ({ data, index }: { data: TimelineYear; index: number }) =>
   />
 </motion.div>
 
+=======
+        {/* Photo placeholder */}
+        <div className="bg-muted rounded-xl p-8 mb-6 border-2 border-dashed border-primary/30 flex flex-col items-center justify-center min-h-[200px]">
+          <Camera size={32} className="text-primary/50 mb-2" />
+          <p className="text-sm text-muted-foreground font-body">
+            Add your favorite photo from Year {data.year}
+          </p>
+        </div>
+>>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
 
         {/* Memories */}
         <div className="space-y-2">
