@@ -5,20 +5,12 @@ const visionItems = [
   {
     icon: <Sun size={24} />,
     title: 'Morning Rituals',
-<<<<<<< HEAD
     description: 'Waking up together, sharing breakfast, starting each day as a couple',
-=======
-    description: 'Waking up together, sharing breakfast, starting each day as a team',
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
   },
   {
     icon: <Coffee size={24} />,
     title: 'Simple Moments',
-<<<<<<< HEAD
     description: 'Tea dates, cooking maggie together, the beautiful mundane of life together',
-=======
-    description: 'Coffee runs, grocery shopping, the beautiful mundane of life together',
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
   },
   {
     icon: <Users size={24} />,
@@ -33,11 +25,7 @@ const visionItems = [
   {
     icon: <Sparkles size={24} />,
     title: 'Celebrating Wins',
-<<<<<<< HEAD
     description: 'Being there in person for every event, every milestone, every joy',
-=======
-    description: 'Being there in person for every promotion, every milestone, every joy',
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
   },
   {
     icon: <Heart size={24} />,

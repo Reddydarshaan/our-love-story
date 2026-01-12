@@ -68,12 +68,7 @@ const FinalLetter = () => {
 
             <div className="pt-6 space-y-4">
               <p>
-<<<<<<< HEAD
                 I dream of growing old with you.Every day together. Of holding your hand through 
-=======
-                I dream of growing old with you. Of lazy Sundays and 
-                adventurous Saturdays. Of holding your hand through 
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
                 every storm and dancing with you in every rain.
               </p>
 
@@ -88,11 +83,7 @@ const FinalLetter = () => {
               <p className="font-script text-2xl md:text-3xl text-wine">
                 No matter what you choose,
                 <br />
-<<<<<<< HEAD
                 I love you Keerthana.
-=======
-                I love you.
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
               </p>
               <p className="font-script text-xl text-rose-gold mt-4">
                 Always and forever ❤️

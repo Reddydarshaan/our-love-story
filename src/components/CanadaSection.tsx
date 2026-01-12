@@ -52,16 +52,11 @@ const CanadaSection = () => {
           <div className="border-l-4 border-primary/30 pl-6 py-4 bg-muted/50 rounded-r-xl mb-6">
             <p className="font-body text-foreground/80 leading-relaxed italic">
               "Your ambitions are part of who you are, and I fell in love with 
-<<<<<<< HEAD
               all of you—including ur dreams and responsibilities."
-=======
-              all of you—including the dreamer who reaches for the stars."
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
             </p>
           </div>
 
           <div className="space-y-4 font-body text-muted-foreground leading-relaxed">
-<<<<<<< HEAD
            <p>
   But I need to be honest with you, from my heart. The thought of being so far apart
   scares me — not because I doubt us, and never because I doubt you. It’s because I
@@ -89,26 +84,6 @@ const CanadaSection = () => {
   there — truly there — for your everyday struggles, your successes, and the
   moments in between, not just as a voice on a call.
 </p>
-=======
-            <p>
-              But I need to be honest with you, from my heart. The thought of 
-              being so far apart... it scares me. Not because I don't trust us, 
-              but because I know how precious our everyday moments are.
-            </p>
-
-            <p>
-              The morning texts that turn into calls. The spontaneous dates. 
-              Being able to hold you when you're sad or celebrate with you 
-              when you're happy. Time zones and thousands of miles between us... 
-              I'm afraid of what that might do to us.
-            </p>
-
-            <p>
-              I've seen long-distance change people. Not because love wasn't there, 
-              but because life gets in the way. And I want to be there—really there—for 
-              every moment of your life, not just through a screen.
-            </p>
->>>>>>> e9af1b112ce7c3e153bb37d06ee2d0619f9494d8
           </div>
 
           <div className="mt-8 p-6 gradient-romantic rounded-2xl text-center">
